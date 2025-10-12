@@ -9,7 +9,7 @@
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=nishadsha91&label=Profile%20Views&color=0e75b6&style=flat)
 
-<img align="right" alt="Coding" height=200  width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding"   width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
 
