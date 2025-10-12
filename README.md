@@ -6,7 +6,10 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=nishadsha91&label=Profile%20Views&color=0e75b6&style=flat)
+
+<img align="right" alt="Coding" height=200  width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
 
@@ -92,8 +95,7 @@ const expertise = {
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=nishadsha91&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 **⭐️ From [Mohammed Nishad](https://github.com/nishadsha91)**
 
