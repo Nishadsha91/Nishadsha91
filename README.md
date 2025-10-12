@@ -95,8 +95,6 @@ const expertise = {
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-
-**⭐️ From [Mohammed Nishad](https://github.com/nishadsha91)**
+**🤍 From [Mohammed Nishad](https://github.com/nishadsha91)**
 
 </div>
